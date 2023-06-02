@@ -1,0 +1,39 @@
+body{ 
+    margin-left:10%;
+    margin-right:10%;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#007e7e;
+}
+
+hr{
+    color:#007e7e;
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #007e7e;
+}
+p1{
+    font-family: Arial, Helvetica, sans-serif;
+    color:green;
+}
+p2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+p3{
+    font-family: Arial, Helvetica, sans-serif;
+    color:purple;
+}
+p4{
+font-family: Arial, Helvetica, sans-serif;
+color:maroon;
+}
+h{
+    color: #007e7e;
+}
+p.p5{
+    text-align: center;
+    color: silver;
+}

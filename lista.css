@@ -1,0 +1,15 @@
+body{
+    color: #333388;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+ ul.quadrado{ list-style-type:square;}
+ ul.circulo{list-style-type: circle;}
+ ul.disco{list-style-type: disc;}
+ ul.imagem{list-style-image:url(imagens/seta_azul.gif)}
+
+ ol.decimal{list-style-type: decimal;}
+ ol.romana{list-style-type: lower-roman;}
+ ol.alfabetica{list-style-type: lower-alpha;}

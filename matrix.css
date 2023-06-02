@@ -1,0 +1,29 @@
+body{
+    background-image: url(2-Matrix/matrix/fundo_neo.jpg);
+    background-position: top right;
+    background-repeat: repeat-y;
+    background-color: black;
+    
+}
+h2{
+    color: white;
+    background-image: url(2-Matrix/matrix/fundo_matrix.jpg);
+    margin-right: 5%;
+}
+img{
+    margin: 2% 15% 0% 0%;
+}
+p{
+    color:lightgreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    text-indent: 50px;
+    text-align: justify;
+    width: 88%;
+    background-color: black;
+}
+#h2{
+    text-align: right;
+    margin-right: 5%;
+
+}

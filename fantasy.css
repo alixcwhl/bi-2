@@ -1,0 +1,29 @@
+hr.hrr{
+    background-color: #ccbb99;
+    margin-left: 16%;
+    margin-right: 16%;
+    height:2px;
+}
+h1{
+background-color: #ccbb99;
+font-family:Arial, Helvetica, sans-serif;
+text-align: right;
+margin-left: 16%;
+margin-right: 16%;
+}
+hr{ color: #ccbb99; margin-left: 16%; margin-right: 16%;}
+p{
+    color: #ccbb99;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 5%;
+    margin-left: 22%;
+    margin-right: 22%;
+}
+img{margin-left: 16%;margin-right: 16%;}
+h6{
+    background-color: #ccbb99;
+    text-align: left;
+    margin-left: 16%;
+    margin-right: 16%;
+}

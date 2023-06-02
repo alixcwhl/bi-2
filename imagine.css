@@ -1,0 +1,46 @@
+body{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+h2{
+    color: maroon;
+    font-family: Arial;
+  }
+  hr{
+    color: maroon;
+  }
+  p.p1{
+     color: maroon;
+    font-family: Arial;
+  }
+  p.p2{
+    color: maroon;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  
+  p.p3{
+    color: maroon;
+    font-family: Arial;
+    font-size: 12px;
+    text-align: center;
+  }
+  p.p4{
+    color: maroon;
+    font-family: Arial;
+    font-size: 12px;
+    text-align: right;
+  }
+  hr{
+    color: maroon;
+  }
+  p.p5{
+     color: maroon;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 12px;
+     text-align: center;
+  }
+  
+  
+  
+  

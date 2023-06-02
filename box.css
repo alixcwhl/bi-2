@@ -1,0 +1,39 @@
+body {
+    margin: 20px 270px 20px 270px;
+    text-align: center;
+}
+
+h1 {
+    background-color: rgb(197, 206, 178);
+    border: solid 10px;
+    border-color: red;
+}
+
+p.p1 {
+    font-weight: bold;
+    background-color: rgb(226, 177, 152);
+    border: solid 20px;
+    border-color: rgb(0, 0, 107);
+    padding: 10px 30px 10px 10px;
+    font-size: 20px;
+}
+
+div.div1 {
+    padding: 5px 10px 20px 5px;
+    border: solid blue;
+    border-top-width: 30px ;
+    border-bottom-width: 10px;
+}
+div.div2{
+    border: solid rgb(247, 65, 207);
+    background-color:rgb(235, 235, 148);
+    text-align: left;
+    padding-left: 5px;
+}
+p.p2{
+    background-color: rgb(184, 248, 248);
+    border-color: rgb(191, 217, 231);
+    padding: 10px 5px 10px 5px;
+    border: solid 3px;
+    text-align: justify;
+}
